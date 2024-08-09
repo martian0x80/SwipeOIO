@@ -1,0 +1,20 @@
+{
+  "customer_details": {
+    "name": "TEST",
+    "address": "Hyderabad, TELANGANA, 500089",
+    "phone": "9108239284",
+    "email": "test@gmail.com"
+  },
+  "products": [
+    {
+      "item": "WASTE AND SCRAP OF STAINLESS STEEL",
+      "rate": "9500",
+      "quantity": "6,790 KGS",
+      "hsn": "72042190"
+    }
+  ],
+  "total_amount": {
+    "amount": "7,68,771.00",
+    "amount_in_words": "INR Seven Lakh, Sixty-Eight Thousand, Seven Hundred And Seventy-One Rupees Only"
+  }
+}

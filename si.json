@@ -1,0 +1,23 @@
+{
+  "customer_details": {
+    "invoice_number": "TEST inv41",
+    "date": "18 Jul 2024",
+    "billing_address": "Test, Hyderabad, TELANGANA, 500089",
+    "phone": "9108239284",
+    "email": "test@gmail.com",
+    "enquire_id": "06-06-2024"
+  },
+  "products": [
+    {
+      "item_no": "1",
+      "description": "WASTE AND SCRAP OF STAINLESS STEEL",
+      "hsn_sac": "72042190",
+      "rate": "95.00",
+      "quantity": "6,790 KGS",
+      "amount": "6,45,050.00",
+      "igst": "1,16,109.00",
+      "total_amount": "7,61,159.00"
+    }
+  ],
+  "total_amount": "7,68,771.00"
+}
